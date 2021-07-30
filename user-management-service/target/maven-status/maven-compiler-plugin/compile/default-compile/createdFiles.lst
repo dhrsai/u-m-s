@@ -1,0 +1,3 @@
+com\nagarro\model\User.class
+com\nagarro\usermanagementservice\UserManagementServiceApplication.class
+com\nagarro\resource\UserResource.class
